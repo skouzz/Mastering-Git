@@ -1,8 +1,15 @@
 
-# Mastering Git: TP1
+ ![Logo](https://i.postimg.cc/nzRsKfxy/IMG-20230602-WA0071-Scxxnu-S.avif)
 
 
-This guide walks through the process of setting up Git, working with repositories, and using Git features effectively. It is tailored for the project hosted at [Mastering-Git](https://github.com/skouzz/Mastering-Git.git).
+## TP1 - Maîtrise de Git élaboré par :
+
+**Oussama Ben Mahmoud** 
+
+# TP1 - Maîtrise de Git
+
+Ce guide explique le processus de configuration de Git, de gestion des dépôts et d'utilisation efficace des fonctionnalités de Git. Il est conçu spécifiquement pour le projet hébergé sur 
+[Mastering-Git](https://github.com/skouzz/Mastering-Git.git).
 
 ## Objectifs
 - Se familiariser avec Git et ses fonctionnalités.
@@ -210,3 +217,6 @@ git flow hotfix list
 ```bash
 git flow hotfix abort
 ```
+## Support
+
+For support, https://ba9chich.com/SkOouZz
