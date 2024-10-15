@@ -2,8 +2,6 @@
  ![Logo](https://i.postimg.cc/nzRsKfxy/IMG-20230602-WA0071-Scxxnu-S.avif)
 
 
-## TP1 - Maîtrise de Git élaboré par :
-
 **Oussama Ben Mahmoud** 
 
 # TP1 - Maîtrise de Git
